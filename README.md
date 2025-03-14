@@ -55,6 +55,22 @@ In this exercise, you will:
 
 ---
 
+## Running the Application
+
+1. Install the dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+2. Run the application:
+   ```sh
+   python src/app.py
+   ```
+
+3. Open your browser and go to:
+   - API documentation: [http://localhost:8000/docs](http://localhost:8000/docs)
+   - Alternative documentation: [http://localhost:8000/redoc](http://localhost:8000/redoc)
+
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/getting-started-with-github-copilot) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
